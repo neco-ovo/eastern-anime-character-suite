@@ -1,0 +1,404 @@
+[
+  {
+    "source_path": "E:/AIGC/大乾/美术产出/人物设计_阶段参考/人物概念参考_01.png",
+    "repository_path": "assets/大乾/美术产出/人物设计_阶段参考/人物概念参考_01.png",
+    "bytes": 508238,
+    "sha256": "f1e1998608e8fb3bd06064a618dbc02b94864980437a8b71a701187abff235c8"
+  },
+  {
+    "source_path": "E:/AIGC/大乾/美术产出/人物设计_阶段参考/人物概念参考_02.png",
+    "repository_path": "assets/大乾/美术产出/人物设计_阶段参考/人物概念参考_02.png",
+    "bytes": 793206,
+    "sha256": "6256fdc24e31c74c8804cccd34254bda752b27d516b09fb10735e587a48e3fed"
+  },
+  {
+    "source_path": "E:/AIGC/大乾/美术产出/人物设计_阶段参考/人物概念参考_03.png",
+    "repository_path": "assets/大乾/美术产出/人物设计_阶段参考/人物概念参考_03.png",
+    "bytes": 356480,
+    "sha256": "c0c27a37b122d2cbf776ff7e05066da286dd6146b50b33b6a7b93d4bdd49a476"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/服装材质素材/服装材质1.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/服装材质素材/服装材质1.jpg",
+    "bytes": 88813,
+    "sha256": "8bfe5cf9a2bf486b05b1c1452f53c637d7d38c1fe8cff0e0f8ab36d037975660"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/服装材质素材/服装材质2.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/服装材质素材/服装材质2.jpg",
+    "bytes": 103957,
+    "sha256": "4b450cafd024ec20acae31e8d19e6d7346ac56bb4467efbc4c9808c3e614f3f8"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/服装材质素材/服装材质3.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/服装材质素材/服装材质3.jpg",
+    "bytes": 101053,
+    "sha256": "6ad76a8c95ec9107701fa82a1ce40b9bad7e72ad83d48d07c03aafc0072334eb"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/服装材质素材/服装材质4.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/服装材质素材/服装材质4.jpg",
+    "bytes": 42955,
+    "sha256": "16f93930c20b71337f6fa7ca40d20563fda60c92bcb57d2e5864639bba872418"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/服装材质素材/服装材质5.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/服装材质素材/服装材质5.jpg",
+    "bytes": 101085,
+    "sha256": "6bce12085eb0be9c105a3bd8ed936756beb97dd22a8654856fafc56a5d897ac0"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/服装材质素材/服装材质6.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/服装材质素材/服装材质6.jpg",
+    "bytes": 115317,
+    "sha256": "e30557b74482bac7115692be77bb06a19317b75be1902d4d73e3803ced9c686c"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/服装材质素材/服装材质7.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/服装材质素材/服装材质7.jpg",
+    "bytes": 66842,
+    "sha256": "36a14fdab1dc7de82ae4ddd4ccffcd75cb7f812901442df8c7b885993b6c07a2"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/服装设计素材/古风/古风1.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/服装设计素材/古风/古风1.jpg",
+    "bytes": 64952,
+    "sha256": "c008ef58a9884eeb2034ece202cfdd555ef67b32bb73a0b1acd535809d4d8b94"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/服装设计素材/古风/古风2.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/服装设计素材/古风/古风2.jpg",
+    "bytes": 139799,
+    "sha256": "776cf98bfcdc7eb91c64f1a31bfb32404c088ebda66d15ab636e2346524692cd"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/服装设计素材/古风/古风3.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/服装设计素材/古风/古风3.jpg",
+    "bytes": 118615,
+    "sha256": "64b0e1959b39d32f0d692db8e2dea14e58147d4475bfad9658c26f8d03e80005"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/服装设计素材/古风/古风4.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/服装设计素材/古风/古风4.jpg",
+    "bytes": 138978,
+    "sha256": "86f2e19aaa57eb8aa38546afeb77721c4b7a61dea3f946d4272ef6b35e1c19c1"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/服装设计素材/古风/古风5.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/服装设计素材/古风/古风5.jpg",
+    "bytes": 125023,
+    "sha256": "26e356aa37a384d077046bf721ba6831927c281e10894506351778cc8f69bcf3"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/服装设计素材/古风/古风6.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/服装设计素材/古风/古风6.jpg",
+    "bytes": 144000,
+    "sha256": "ae71d69a260b531327aface0c1f96427d749555d9e71cc2d0c6b84361e0e2497"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/服装设计素材/古风/古风7.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/服装设计素材/古风/古风7.jpg",
+    "bytes": 115914,
+    "sha256": "257ab5590ff2d51ced3c0338a586e05c8b4356b2250f770c44b704f7388b7b03"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/服装设计素材/古风/古风8.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/服装设计素材/古风/古风8.jpg",
+    "bytes": 73997,
+    "sha256": "9e3cdfbf9be7d39e2a4737796ba9848202e35b6d2ea96a08ed43d13c96b9e4dc"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/服装设计素材/古风/礼裙.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/服装设计素材/古风/礼裙.jpg",
+    "bytes": 156090,
+    "sha256": "98ededf5692d6ec8164abe35a8e0b796d297bb9e0934b30986749b66ac9d9c18"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/服装设计素材/古风/礼裙2.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/服装设计素材/古风/礼裙2.jpg",
+    "bytes": 112671,
+    "sha256": "894f68366afe1fa37a12eb7129b6ba846d4334447238302f912cc22e3cd1055f"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/服装褶皱素材/服装1.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/服装褶皱素材/服装1.jpg",
+    "bytes": 146433,
+    "sha256": "65935d3568bb2821e5a9d8f064cb0314433f530b3f665153d2576c816f35e502"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/服装褶皱素材/服装2.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/服装褶皱素材/服装2.jpg",
+    "bytes": 91476,
+    "sha256": "6788a7c754f502ba3a58d1c3303ef29f42695bf7a505e4dec436db8d66a51559"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/服装褶皱素材/服装3.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/服装褶皱素材/服装3.jpg",
+    "bytes": 82636,
+    "sha256": "5a2a5c12d88f3bc5f7cf7d1e1ccc8d707d388a54b7199b6008bf4bdac5a56668"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/服装褶皱素材/服装4.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/服装褶皱素材/服装4.jpg",
+    "bytes": 72801,
+    "sha256": "3e00e4e8e5186bb536c2e3d0d7d3967d9763b73fd8ad547ad44a7e2b767bab7c"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/服装褶皱素材/服装5.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/服装褶皱素材/服装5.jpg",
+    "bytes": 35120,
+    "sha256": "7e2b7dfcb900543524b5cd9fef5e280e96c6c5503d2a3699f00629bea0e5b2d0"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/服装褶皱素材/服装6.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/服装褶皱素材/服装6.jpg",
+    "bytes": 154070,
+    "sha256": "ecfbf800ce682ba6438833b1f6475ea04e10c111835a58970fb0c43f455ec19c"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/服装褶皱素材/服装7.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/服装褶皱素材/服装7.jpg",
+    "bytes": 67961,
+    "sha256": "6dae2e9ee9d65c96d414334776bdf88b8f8bd9958db9f52d10e1908980623c84"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/服装褶皱素材/服装8.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/服装褶皱素材/服装8.jpg",
+    "bytes": 144473,
+    "sha256": "51adb2fba0797e3ac873fb5fa0cc16b5f2cee4202c04e08b0f07c981b7707343"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/服装褶皱素材/服装9.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/服装褶皱素材/服装9.jpg",
+    "bytes": 131360,
+    "sha256": "5e80b31b24b6c5d5635600c617368d4b9d176c760d8a940cb055014492fe2c5c"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/光影素材/光影2.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/光影素材/光影2.jpg",
+    "bytes": 125938,
+    "sha256": "1af888db488f3b5216b29c30e05a50c44d49b59b0b7e01113dcbbb21c8b0d2e8"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/光影素材/下载.png",
+    "repository_path": "assets/ref/二次元绘画素材/光影素材/下载.png",
+    "bytes": 1446293,
+    "sha256": "c2313fbbc7a9328c58126f51142a0a810d972105b604cd452825e872a2d6d96a"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/脸型参考/脸型1.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/脸型参考/脸型1.jpg",
+    "bytes": 69925,
+    "sha256": "73b50994174946a7eaf16e1a6a8d06cdf7d76a9e2c227796da894fabe86f7939"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/脸型参考/脸型2.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/脸型参考/脸型2.jpg",
+    "bytes": 57604,
+    "sha256": "8c64e836bf68b99763853b861f0047f387a2943988d57fc3b4759aa121734f3c"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/脸型参考/脸型3.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/脸型参考/脸型3.jpg",
+    "bytes": 52996,
+    "sha256": "495a88a5897861d0fbf21f7dea47c30cf60844a5a552d605713a43260c00475d"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/脸型参考/脸型4.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/脸型参考/脸型4.jpg",
+    "bytes": 104647,
+    "sha256": "f1e4ef809dbdeb18582a84e4312d490f49ced132c9377f17b212f864d8cdc847"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/身体素材/身体1.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/身体素材/身体1.jpg",
+    "bytes": 59058,
+    "sha256": "a379ceec72d65910bb4c10e11b6009d57adc1097dd0660a0426c018e34975c70"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/身体素材/身体2.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/身体素材/身体2.jpg",
+    "bytes": 132942,
+    "sha256": "0d123ee408720a4fcb2631a0e660e03300c15b5d7edead2e1f728189a06d39cc"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/身体素材/身体3.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/身体素材/身体3.jpg",
+    "bytes": 42977,
+    "sha256": "8c4a46dfbd687fc30049ddc52928a80029910b85533a906cb1329875b94be87d"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/身体素材/身体4.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/身体素材/身体4.jpg",
+    "bytes": 58842,
+    "sha256": "bc82cecf72b63288d9dbee06a8bac87774df02b8b8718e6cbc0a50454092cca2"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/身体素材/身体5.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/身体素材/身体5.jpg",
+    "bytes": 63876,
+    "sha256": "455a8662afef87efd4896302fa52f96820915fac3362967ebc0f9f3c1b1f1261"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/身体素材/身体6.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/身体素材/身体6.jpg",
+    "bytes": 175276,
+    "sha256": "51642886433610da53d192affe81fea2b3ecb89e70afe018b7260b185c8a25e6"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/手素材/手1.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/手素材/手1.jpg",
+    "bytes": 46467,
+    "sha256": "b63ddf16d4f682a1170848266ca0b165a6658c14c25ce680cc9c029a2d0990b1"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/手素材/手2.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/手素材/手2.jpg",
+    "bytes": 212006,
+    "sha256": "b05e871f7e6b60c63ce3bc50169c59d0f6e41215934c7bb7dffd191d59a0c783"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/手素材/手3.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/手素材/手3.jpg",
+    "bytes": 123452,
+    "sha256": "aaaca8dc4c8555911eaa6de6112976d6c6c8995e906cd847364011413cda5c04"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/头发画法素材/头发1.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/头发画法素材/头发1.jpg",
+    "bytes": 112829,
+    "sha256": "1385265861aee7e957ead72f92fe42155d05251e24907c89b69f0df72be83506"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/头发画法素材/头发2.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/头发画法素材/头发2.jpg",
+    "bytes": 100779,
+    "sha256": "d916b45757f37cc2e8365eb4be0b3adaa833a019e531a3109bb549963f172416"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/头发画法素材/头发3.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/头发画法素材/头发3.jpg",
+    "bytes": 111333,
+    "sha256": "0abe432b1f135c26509b6e9c4ad9c635f2026ebca3a351692cd90282fe89f0cd"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/头发画法素材/头发4.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/头发画法素材/头发4.jpg",
+    "bytes": 123140,
+    "sha256": "0c58bc0424e31469bebef45088baf279eb1c6de5c2f5ffa1c3849b09c5f150e6"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/头发画法素材/头发5.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/头发画法素材/头发5.jpg",
+    "bytes": 129872,
+    "sha256": "16c2f26920ce9bd38072bf0ca9150dde6a53d6d3e51947e23f00842794de64fa"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/头发画法素材/头发6.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/头发画法素材/头发6.jpg",
+    "bytes": 87313,
+    "sha256": "0c7272ebeb1f09fdaee42203b58ab581585379f9e1a8f55b5e06a2f3c64f0340"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/头发画法素材/头发7.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/头发画法素材/头发7.jpg",
+    "bytes": 89662,
+    "sha256": "739a2738ef3e352f8b5833d50ff39e780e1d0d8de96b38d395b1536f74ecfe58"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/头发画法素材/头发8.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/头发画法素材/头发8.jpg",
+    "bytes": 207003,
+    "sha256": "bd3a3195cac7fc7d3b7a4e66dad3ec4623ddb459b5bb3d9f91841e3f5a2fc00d"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/眼睛素材/眼睛1.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/眼睛素材/眼睛1.jpg",
+    "bytes": 117245,
+    "sha256": "b7507a8e2d45751f922b1673dc6dba2aabf47638b67891b024b5bd430582b899"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/眼睛素材/眼睛2.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/眼睛素材/眼睛2.jpg",
+    "bytes": 42386,
+    "sha256": "11f6b40073dabb23f8fea048ca41fcaf1c77a36a4c939f5fb1e7b1deebaf0bfb"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/眼睛素材/眼睛3.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/眼睛素材/眼睛3.jpg",
+    "bytes": 43270,
+    "sha256": "12c56779fa4d93bc33bcaff5e773e1efd0e7eeee7f2fa6687cbeab3be9732005"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/眼睛素材/眼睛4.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/眼睛素材/眼睛4.jpg",
+    "bytes": 23241,
+    "sha256": "c249bf78875b8598d17a112c97cabc84220588b81a2cbe5211e65147524a5711"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/眼睛素材/眼睛5.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/眼睛素材/眼睛5.jpg",
+    "bytes": 110612,
+    "sha256": "43d6cad1ff60332ef28c74d8e4f9ae318d0bc74f1db9448f3dc6731f184cd001"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/眼睛素材/眼睛6.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/眼睛素材/眼睛6.jpg",
+    "bytes": 24893,
+    "sha256": "96908afb75fcb4784191d0d77d0f4f5739c75fdc9d394dca36eae3c5eb4205b3"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/姿势参考/姿势1.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/姿势参考/姿势1.jpg",
+    "bytes": 105310,
+    "sha256": "e25d7f3b332046b0d52a7e3eb3253a24f26ade4e71f51d86a4d56354e464747b"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/姿势参考/姿势2.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/姿势参考/姿势2.jpg",
+    "bytes": 102047,
+    "sha256": "82b240207f5807035387a4360fa2f64ef026f1a15a48d7cd0ba170b78c158b1d"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/姿势参考/姿势3.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/姿势参考/姿势3.jpg",
+    "bytes": 138836,
+    "sha256": "595f809cbcee7191c00f0b858d21d6c1462d64854a65082c9e696c346be866fd"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/姿势参考/姿势4.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/姿势参考/姿势4.jpg",
+    "bytes": 200747,
+    "sha256": "f06ddf9cf2563959963b4510022488ce1c1acb42e181e318ba89c38e01f1384d"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/姿势参考/姿势5.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/姿势参考/姿势5.jpg",
+    "bytes": 104645,
+    "sha256": "d7085234ff3a42472130408cf318eb7780fee7a5b7085fa241d6c592ca3db495"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/姿势参考/姿势7.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/姿势参考/姿势7.jpg",
+    "bytes": 156120,
+    "sha256": "1edfa58396e116ef32359b16f3d68ef04cc63d45a7d59056bbd1121dafcb0765"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/姿势参考/姿势8.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/姿势参考/姿势8.jpg",
+    "bytes": 153691,
+    "sha256": "13483e735a1040dc2dde711b23d3090c271a369ba065d4948b5b2f78ff6e2da4"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/嘴部参考/嘴1.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/嘴部参考/嘴1.jpg",
+    "bytes": 30919,
+    "sha256": "75a713e9f66b67f73676a319ef5886a681b78510481ac6bfa7cdbcf8498beae2"
+  },
+  {
+    "source_path": "E:/AIGC/ref/二次元绘画素材/嘴部参考/嘴6.jpg",
+    "repository_path": "assets/ref/二次元绘画素材/嘴部参考/嘴6.jpg",
+    "bytes": 135854,
+    "sha256": "0feff49eed10433e4ee1ddab9343d784fda9872119e7faabd6d482e175d8b137"
+  }
+]
