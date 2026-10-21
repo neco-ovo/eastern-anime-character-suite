@@ -1,0 +1,995 @@
+{
+  "source_root": "E:/AIGC/ref/二次元绘画素材",
+  "date": "2026-10-16",
+  "image_count": 49,
+  "crop_count": 9,
+  "status": "knowledge_extracted; limited_prior_image_trials; new_text_modules_not_generation_validated",
+  "files": [
+    {
+      "source_relative": "光影素材/下载.png",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/光影素材/下载.png",
+      "size": [
+        1152,
+        2048
+      ],
+      "sha256": "c2313fbbc7a9328c58126f51142a0a810d972105b604cd452825e872a2d6d96a",
+      "category": "光照结构 A",
+      "observation": "多方向头部二值明暗、投影与轮廓亮部；应选择一个小格，不能把多个光方向叠在同一人物上；不迁移脸型、发型。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "lighting.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "光影素材/光影2.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/光影素材/光影2.jpg",
+      "size": [
+        774,
+        1205
+      ],
+      "sha256": "1af888db488f3b5216b29c30e05a50c44d49b59b0b7e01113dcbbb21c8b0d2e8",
+      "category": "光照结构 A",
+      "observation": "同一人物不同明暗分区、头发与花朵遮挡；只取光向和亮暗面积，不取人物、花束、服装。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "lighting.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "头发画法素材/头发1.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/头发画法素材/头发1.jpg",
+      "size": [
+        736,
+        1068
+      ],
+      "sha256": "1385265861aee7e957ead72f92fe42155d05251e24907c89b69f0df72be83506",
+      "category": "发丝表现 A",
+      "observation": "细轮廓、大片带状发束、局部碎高光、暖亮与灰紫暗部；适合东方幻想插画的可选头发表现，不固定金发/棕发或卷度。",
+      "visual_review": "contact_sheet_and_original",
+      "crops": [
+        {
+          "id": "H1",
+          "path": "images/hair-line-plane.png",
+          "box": [
+            10,
+            510,
+            700,
+            1068
+          ],
+          "purpose": "线与带状发束色面",
+          "transformation": "original_pixel_crop_only; no resize, recolor, retouch or generation",
+          "sha256": "59f49eed7694378998a661a5bc2d31eb6d01bca8159be7971a32633fd72369fb",
+          "visual_role": "hair_rendering"
+        }
+      ],
+      "knowledge_modules": [
+        "hair.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "头发画法素材/头发2.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/头发画法素材/头发2.jpg",
+      "size": [
+        736,
+        981
+      ],
+      "sha256": "d916b45757f37cc2e8365eb4be0b3adaa833a019e531a3109bb549963f172416",
+      "category": "发型结构 C",
+      "observation": "红线多发型与分束组织；是形状设计，不是材质。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "hair.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "头发画法素材/头发3.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/头发画法素材/头发3.jpg",
+      "size": [
+        736,
+        1012
+      ],
+      "sha256": "0abe432b1f135c26509b6e9c4ad9c635f2026ebca3a351692cd90282fe89f0cd",
+      "category": "动态结构 C",
+      "observation": "风向、发束延伸、疏密与负空间；不迁移固定轮廓。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "hair.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "头发画法素材/头发4.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/头发画法素材/头发4.jpg",
+      "size": [
+        1080,
+        1810
+      ],
+      "sha256": "0c58bc0424e31469bebef45088baf279eb1c6de5c2f5ffa1c3849b09c5f150e6",
+      "category": "发束结构 C",
+      "observation": "卷束转折和截面简化；不能直接定义核心画风。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "hair.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "头发画法素材/头发5.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/头发画法素材/头发5.jpg",
+      "size": [
+        1200,
+        1601
+      ],
+      "sha256": "16c2f26920ce9bd38072bf0ca9150dde6a53d6d3e51947e23f00842794de64fa",
+      "category": "发束表现 B",
+      "observation": "编发交叠与灰紫硬面切分；有软件界面、多个局部，需选单区域；偏硬质光面，不能强推全部头发。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "hair.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "头发画法素材/头发6.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/头发画法素材/头发6.jpg",
+      "size": [
+        736,
+        977
+      ],
+      "sha256": "0c7272ebeb1f09fdaee42203b58ab581585379f9e1a8f55b5e06a2f3c64f0340",
+      "category": "发光泽 B",
+      "observation": "白发冷紫反射与强光泽、分步演示；与头发1相比更亮更厚涂，强度宜降低；排版文字多。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "hair.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "头发画法素材/头发7.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/头发画法素材/头发7.jpg",
+      "size": [
+        1079,
+        1178
+      ],
+      "sha256": "739a2738ef3e352f8b5833d50ff39e780e1d0d8de96b38d395b1536f74ecfe58",
+      "category": "发光泽 A",
+      "observation": "宽柔高光、少量细丝、同色系体积渐变；较头发1柔和且弱线稿，应选其一为主，不能机械混合。",
+      "visual_review": "contact_sheet_and_original",
+      "crops": [
+        {
+          "id": "H7",
+          "path": "images/hair-soft-volume.png",
+          "box": [
+            30,
+            65,
+            610,
+            1130
+          ],
+          "purpose": "柔绘发束和宽反光",
+          "transformation": "original_pixel_crop_only; no resize, recolor, retouch or generation",
+          "sha256": "5cc98d9e8469560f7199e0725b4a9505cd6a39ef5461fdc76aff925f41d390c8",
+          "visual_role": "hair_rendering"
+        }
+      ],
+      "knowledge_modules": [
+        "hair.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "头发画法素材/头发8.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/头发画法素材/头发8.jpg",
+      "size": [
+        915,
+        2048
+      ],
+      "sha256": "bd3a3195cac7fc7d3b7a4e66dad3ec4623ddb459b5bb3d9f91841e3f5a2fc00d",
+      "category": "照片转译/结构 B",
+      "observation": "照片到大束灰阶概括；可学提炼方法，照片人物与灰阶画不当统一风格参考。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "hair.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "手素材/手1.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/手素材/手1.jpg",
+      "size": [
+        499,
+        653
+      ],
+      "sha256": "b63ddf16d4f682a1170848266ca0b165a6658c14c25ce680cc9c029a2d0990b1",
+      "category": "手势结构 C",
+      "observation": "扶腰手势、指节和遮挡；分辨率499×653，仅结构。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "anatomy-hands.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "手素材/手2.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/手素材/手2.jpg",
+      "size": [
+        1080,
+        1593
+      ],
+      "sha256": "b05e871f7e6b60c63ce3bc50169c59d0f6e41215934c7bb7dffd191d59a0c783",
+      "category": "手势索引 C",
+      "observation": "多种握拳、伸指与手掌角度；每格较小，按动作选格，不能作为精细皮肤参考。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "anatomy-hands.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "手素材/手3.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/手素材/手3.jpg",
+      "size": [
+        1080,
+        1440
+      ],
+      "sha256": "aaaca8dc4c8555911eaa6de6112976d6c6c8995e906cd847364011413cda5c04",
+      "category": "皮肤表现/结构 A",
+      "observation": "暖橙受光、灰紫暗面、关节色差、软过渡与少量硬边；皮肤表现可独立抽取，原手势与比例不迁移。",
+      "visual_review": "contact_sheet_and_original",
+      "crops": [
+        {
+          "id": "S3",
+          "path": "images/skin-color-planes.png",
+          "box": [
+            430,
+            350,
+            870,
+            940
+          ],
+          "purpose": "皮肤连续色面；不迁移手势",
+          "transformation": "original_pixel_crop_only; no resize, recolor, retouch or generation",
+          "sha256": "2508b8fc1be6778280aacae3a7f5e5d3060fb460e6473586156ca65f459c8fb7",
+          "visual_role": "skin_planes"
+        }
+      ],
+      "knowledge_modules": [
+        "anatomy-hands.md",
+        "skin-eyes.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "服装材质素材/服装材质1.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/服装材质素材/服装材质1.jpg",
+      "size": [
+        1060,
+        1608
+      ],
+      "sha256": "8bfe5cf9a2bf486b05b1c1452f53c637d7d38c1fe8cff0e0f8ab36d037975660",
+      "category": "哑光厚布感 A",
+      "observation": "橄榄灰宽面、柔弱反射、肘部压褶与大面转折；底部笔刷/签名版面非材质。",
+      "visual_review": "contact_sheet_and_original",
+      "crops": [
+        {
+          "id": "C1",
+          "path": "images/cloth-matte-bend.png",
+          "box": [
+            160,
+            145,
+            915,
+            700
+          ],
+          "purpose": "厚布感弯肘宽面",
+          "transformation": "original_pixel_crop_only; no resize, recolor, retouch or generation",
+          "sha256": "1ed4afb7b1d9b97e642f917195f661353cd4d12afaa53b8b5f77f9a386370230",
+          "visual_role": "cloth_bend_or_overlap"
+        },
+        {
+          "id": "C1Q",
+          "path": "images/cloth-quiet-body.png",
+          "box": [
+            300,
+            830,
+            800,
+            1280
+          ],
+          "purpose": "连续衣身中间面与较低褶皱密度；与弯肘局部互补",
+          "visual_role": "continuous_cloth_surface",
+          "transformation": "original_pixel_crop_only; no resize, recolor, retouch or generation",
+          "sha256": "a318523221fcaf1642c16a3fd2472c49c64f507e09448f1081269091647ec176"
+        }
+      ],
+      "knowledge_modules": [
+        "cloth.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "服装材质素材/服装材质2.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/服装材质素材/服装材质2.jpg",
+      "size": [
+        1199,
+        1561
+      ],
+      "sha256": "4b450cafd024ec20acae31e8d19e6d7346ac56bb4467efbc4c9808c3e614f3f8",
+      "category": "光滑挺括布感 B",
+      "observation": "米灰风衣尖锐反射块、结构折线；强光与衣服硬挺结构混合，不能解释成所有风衣都如此反光。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "cloth.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "服装材质素材/服装材质3.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/服装材质素材/服装材质3.jpg",
+      "size": [
+        1119,
+        1250
+      ],
+      "sha256": "6ad76a8c95ec9107701fa82a1ce40b9bad7e72ad83d48d07c03aafc0072334eb",
+      "category": "柔亮布面 A",
+      "observation": "蓝灰主体、绿环境反光、宽柔亮带与局部硬折；优先宽袖区域，不带入交领和抱臂姿势。",
+      "visual_review": "contact_sheet_and_original",
+      "crops": [
+        {
+          "id": "C3",
+          "path": "images/cloth-soft-sheen.png",
+          "box": [
+            105,
+            440,
+            620,
+            1170
+          ],
+          "purpose": "柔亮宽袖",
+          "transformation": "original_pixel_crop_only; no resize, recolor, retouch or generation",
+          "sha256": "6127d0c01a1e9c920a0a95df9a62cff8895e170304bbc26dd99b8ac2d72998c0",
+          "visual_role": "cloth_bend_or_overlap"
+        }
+      ],
+      "knowledge_modules": [
+        "cloth.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "服装材质素材/服装材质4.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/服装材质素材/服装材质4.jpg",
+      "size": [
+        431,
+        686
+      ],
+      "sha256": "16f93930c20b71337f6fa7ca40d20563fda60c92bcb57d2e5864639bba872418",
+      "category": "白布/混合配件 B",
+      "observation": "白袖灰色折面与少量暖反光；仅431×686且配件多，细节不足，不做首选。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "cloth.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "服装材质素材/服装材质5.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/服装材质素材/服装材质5.jpg",
+      "size": [
+        1200,
+        1819
+      ],
+      "sha256": "6bce12085eb0be9c105a3bd8ed936756beb97dd22a8654856fafc56a5d897ac0",
+      "category": "皮革感 A",
+      "observation": "深棕底色、窄强亮带、宽暗面、锐褶和缝线；高反射模块，与柔布模块分开。",
+      "visual_review": "contact_sheet_and_original",
+      "crops": [
+        {
+          "id": "C5",
+          "path": "images/leather-reflection.png",
+          "box": [
+            580,
+            930,
+            1000,
+            1530
+          ],
+          "purpose": "皮革尖折与局部锐反射",
+          "transformation": "original_pixel_crop_only; no resize, recolor, retouch or generation",
+          "sha256": "4fff0b1aa4527bc490a83d62ff01a6e59022278580fad7ce96e0399f147852f8",
+          "visual_role": "cloth_bend_or_overlap"
+        }
+      ],
+      "knowledge_modules": [
+        "cloth.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "服装材质素材/服装材质6.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/服装材质素材/服装材质6.jpg",
+      "size": [
+        1200,
+        1500
+      ],
+      "sha256": "e30557b74482bac7115692be77bb06a19317b75be1902d4d73e3803ced9c686c",
+      "category": "白衬布/裙布 A",
+      "observation": "白衣冷灰硬边阴影与青灰裙大块折面；要拆开上衣和裙子，不迁移制服设计。",
+      "visual_review": "contact_sheet_and_original",
+      "crops": [
+        {
+          "id": "C6",
+          "path": "images/cloth-light-planes.png",
+          "box": [
+            840,
+            320,
+            1105,
+            960
+          ],
+          "purpose": "白布袖子色面",
+          "transformation": "original_pixel_crop_only; no resize, recolor, retouch or generation",
+          "sha256": "d619ae71e42857fc8c2a23d00c5bfa015a47882ffa71e9ab8d3fd318c0838acb",
+          "visual_role": "cloth_bend_or_overlap"
+        }
+      ],
+      "knowledge_modules": [
+        "cloth.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "服装材质素材/服装材质7.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/服装材质素材/服装材质7.jpg",
+      "size": [
+        720,
+        1020
+      ],
+      "sha256": "36a14fdab1dc7de82ae4ddd4ccffcd75cb7f812901442df8c7b885993b6c07a2",
+      "category": "深色柔亮布 B",
+      "observation": "暗橄榄色体积、宽褶边缘亮面；背景与握手姿势复杂，材质3更干净。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "cloth.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "服装褶皱素材/服装1.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/服装褶皱素材/服装1.jpg",
+      "size": [
+        1200,
+        1064
+      ],
+      "sha256": "65935d3568bb2821e5a9d8f064cb0314433f530b3f665153d2576c816f35e502",
+      "category": "受力结构 C",
+      "observation": "手肘压褶、拉伸方向及几何概括；非材质。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "folds.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "服装褶皱素材/服装2.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/服装褶皱素材/服装2.jpg",
+      "size": [
+        900,
+        1200
+      ],
+      "sha256": "6788a7c754f502ba3a58d1c3303ef29f42695bf7a505e4dec436db8d66a51559",
+      "category": "白布表现 B",
+      "observation": "淡蓝紫阴影、暖灰亮部与宽松体积；教程版面干扰，取上部完成稿即可。",
+      "visual_review": "contact_sheet_and_original",
+      "crops": [
+        {
+          "id": "F2",
+          "path": "images/cloth-rounded-planes.png",
+          "box": [
+            310,
+            230,
+            820,
+            690
+          ],
+          "purpose": "圆转宽松褶面",
+          "transformation": "original_pixel_crop_only; no resize, recolor, retouch or generation",
+          "sha256": "700e2318dae2292a1d3bad6028b5755fe07b12a87c69282f582f81cbcae6d256",
+          "visual_role": "cloth_bend_or_overlap"
+        }
+      ],
+      "knowledge_modules": [
+        "folds.md",
+        "cloth.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "服装褶皱素材/服装3.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/服装褶皱素材/服装3.jpg",
+      "size": [
+        735,
+        1046
+      ],
+      "sha256": "5a2a5c12d88f3bc5f7cf7d1e1ccc8d707d388a54b7199b6008bf4bdac5a56668",
+      "category": "照片转译/结构 A",
+      "observation": "袖口和裤脚堆褶，从照片到线稿到明暗；可作为褶皱结构工作法。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "folds.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "服装褶皱素材/服装4.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/服装褶皱素材/服装4.jpg",
+      "size": [
+        736,
+        920
+      ],
+      "sha256": "3e00e4e8e5186bb536c2e3d0d7d3967d9763b73fd8ad547ad44a7e2b767bab7c",
+      "category": "折面/灰阶 B",
+      "observation": "白裙锐面与宽面交替；手写注释及多小图，适合结构，不直接继承全身服装。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "folds.md",
+        "cloth.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "服装褶皱素材/服装5.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/服装褶皱素材/服装5.jpg",
+      "size": [
+        510,
+        680
+      ],
+      "sha256": "7e2b7dfcb900543524b5cd9fef5e280e96c6c5503d2a3699f00629bea0e5b2d0",
+      "category": "柔亮袖布 B",
+      "observation": "米色受光与灰褐暗面、块面到局部柔化；510×680，放大无新增细节。",
+      "visual_review": "contact_sheet_and_original",
+      "crops": [],
+      "knowledge_modules": [
+        "folds.md",
+        "cloth.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "服装褶皱素材/服装6.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/服装褶皱素材/服装6.jpg",
+      "size": [
+        1000,
+        1168
+      ],
+      "sha256": "ecfbf800ce682ba6438833b1f6475ea04e10c111835a58970fb0c43f455ec19c",
+      "category": "悬垂结构 A",
+      "observation": "支点、兜布型U形垂褶、贴体与离体差异；不把灰阶作为最终材质。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "folds.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "服装褶皱素材/服装7.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/服装褶皱素材/服装7.jpg",
+      "size": [
+        736,
+        1104
+      ],
+      "sha256": "6dae2e9ee9d65c96d414334776bdf88b8f8bd9958db9f52d10e1908980623c84",
+      "category": "褶皱组织 C",
+      "observation": "避免随机碎褶，按大面和受力组织；身形服装均非风格。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "folds.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "服装褶皱素材/服装8.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/服装褶皱素材/服装8.jpg",
+      "size": [
+        849,
+        1200
+      ],
+      "sha256": "51adb2fba0797e3ac873fb5fa0cc16b5f2cee4202c04e08b0f07c981b7707343",
+      "category": "管状/贴体结构 A",
+      "observation": "环抱、收束、贴体横褶与束腰；仅按当前衣料受力需要选行。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "folds.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "服装褶皱素材/服装9.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/服装褶皱素材/服装9.jpg",
+      "size": [
+        1200,
+        1200
+      ],
+      "sha256": "5e80b31b24b6c5d5635600c617368d4b9d176c760d8a940cb055014492fe2c5c",
+      "category": "垂布形态 C",
+      "observation": "多种悬挂、落地、卷起与支点；无充分颜色/质感信息。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "folds.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "服装设计素材/古风/古风1.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/服装设计素材/古风/古风1.jpg",
+      "size": [
+        474,
+        711
+      ],
+      "sha256": "c008ef58a9884eeb2034ece202cfdd555ef67b32bb73a0b1acd535809d4d8b94",
+      "category": "服装设计 C",
+      "observation": "荷花主题、白金青配色、叠层长裙；474×711小图不支持纹样细节提取。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "costume-design.md",
+        "accessories.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "服装设计素材/古风/古风2.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/服装设计素材/古风/古风2.jpg",
+      "size": [
+        736,
+        1104
+      ],
+      "sha256": "776cf98bfcdc7eb91c64f1a31bfb32404c088ebda66d15ab636e2346524692cd",
+      "category": "服装设计 C",
+      "observation": "米金与深青层次、宽袖、装饰分布；不是材质样片。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "costume-design.md",
+        "accessories.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "服装设计素材/古风/古风3.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/服装设计素材/古风/古风3.jpg",
+      "size": [
+        720,
+        956
+      ],
+      "sha256": "64b0e1959b39d32f0d692db8e2dea14e58147d4475bfad9658c26f8d03e80005",
+      "category": "服装设计 C",
+      "observation": "蓝白植物纹、透叠宽袖及拖尾；透明感可作可选观察，结构不能混风格。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "costume-design.md",
+        "accessories.md",
+        "supplemental-surfaces.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "服装设计素材/古风/古风4.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/服装设计素材/古风/古风4.jpg",
+      "size": [
+        736,
+        977
+      ],
+      "sha256": "86f2e19aaa57eb8aa38546afeb77721c4b7a61dea3f946d4272ef6b35e1c19c1",
+      "category": "服装设计 C",
+      "observation": "粉色花枝、透明叠袖、束腰设计；有二维码/宣传字，非生成内容。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "costume-design.md",
+        "accessories.md",
+        "supplemental-surfaces.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "服装设计素材/古风/古风5.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/服装设计素材/古风/古风5.jpg",
+      "size": [
+        736,
+        981
+      ],
+      "sha256": "26e356aa37a384d077046bf721ba6831927c281e10894506351778cc8f69bcf3",
+      "category": "服装设计 C",
+      "observation": "粉绿金配色、薄层叠色与宽袖；服饰设计信息优先于材质证据。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "costume-design.md",
+        "accessories.md",
+        "supplemental-surfaces.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "服装设计素材/古风/古风6.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/服装设计素材/古风/古风6.jpg",
+      "size": [
+        736,
+        1104
+      ],
+      "sha256": "ae71d69a260b531327aface0c1f96427d749555d9e71cc2d0c6b84361e0e2497",
+      "category": "设计/强反射 B",
+      "observation": "金色锐反光与白金刺绣对比；只可作为极强金属光泽观察，整套设计不可默认为风格。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "costume-design.md",
+        "accessories.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "服装设计素材/古风/古风7.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/服装设计素材/古风/古风7.jpg",
+      "size": [
+        736,
+        1104
+      ],
+      "sha256": "257ab5590ff2d51ced3c0338a586e05c8b4356b2250f770c44b704f7388b7b03",
+      "category": "服装设计 C",
+      "observation": "黑白青长袍和配饰结构；水印密，整套款式/纹样不列入默认迁移。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "costume-design.md",
+        "accessories.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "服装设计素材/古风/古风8.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/服装设计素材/古风/古风8.jpg",
+      "size": [
+        736,
+        1079
+      ],
+      "sha256": "9e3cdfbf9be7d39e2a4737796ba9848202e35b6d2ea96a08ed43d13c96b9e4dc",
+      "category": "服装设计 C",
+      "observation": "绿白长袍、不对称飘带与切面上色；粗略设计稿和水印，不适合细材质。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "costume-design.md",
+        "accessories.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "服装设计素材/古风/礼裙.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/服装设计素材/古风/礼裙.jpg",
+      "size": [
+        1080,
+        1444
+      ],
+      "sha256": "98ededf5692d6ec8164abe35a8e0b796d297bb9e0934b30986749b66ac9d9c18",
+      "category": "服装设计 C",
+      "observation": "浅绿白金、垂褶和蕾丝装饰分布；整体轮廓和装饰属于设计选择。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "costume-design.md",
+        "accessories.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "服装设计素材/古风/礼裙2.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/服装设计素材/古风/礼裙2.jpg",
+      "size": [
+        736,
+        981
+      ],
+      "sha256": "894f68366afe1fa37a12eb7129b6ba846d4334447238302f912cc22e3cd1055f",
+      "category": "服装设计 C",
+      "observation": "白绿植物主题、窄长线条与缎感亮暗；排版和低细节限制材质采样。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "costume-design.md",
+        "accessories.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "眼睛素材/眼睛1.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/眼睛素材/眼睛1.jpg",
+      "size": [
+        1061,
+        1500
+      ],
+      "sha256": "b7507a8e2d45751f922b1673dc6dba2aabf47638b67891b024b5bd430582b899",
+      "category": "眼部线条 B",
+      "observation": "上眼睑轻重、虹膜暗顶亮底、简化高光；铅笔质感不能直接替代彩色上色风格。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "skin-eyes.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "眼睛素材/眼睛2.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/眼睛素材/眼睛2.jpg",
+      "size": [
+        478,
+        990
+      ],
+      "sha256": "11f6b40073dabb23f8fea048ca41fcaf1c77a36a4c939f5fb1e7b1deebaf0bfb",
+      "category": "表情结构 C",
+      "observation": "眉眼角度与情绪；文字标签和眼形不默认为核心风格。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "skin-eyes.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "眼睛素材/眼睛3.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/眼睛素材/眼睛3.jpg",
+      "size": [
+        640,
+        1090
+      ],
+      "sha256": "12c56779fa4d93bc33bcaff5e773e1efd0e7eeee7f2fa6687cbeab3be9732005",
+      "category": "睫毛/开合结构 C",
+      "observation": "睫毛方向、上眼睑弧度与闭眼；没有彩色虹膜证据。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "skin-eyes.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "眼睛素材/眼睛4.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/眼睛素材/眼睛4.jpg",
+      "size": [
+        477,
+        545
+      ],
+      "sha256": "c249bf78875b8598d17a112c97cabc84220588b81a2cbe5211e65147524a5711",
+      "category": "眼形/角度结构 C",
+      "observation": "细长眼的转面与视角；477×545，不足以支持精细材质。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "skin-eyes.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "身体素材/身体1.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/身体素材/身体1.jpg",
+      "size": [
+        736,
+        889
+      ],
+      "sha256": "a379ceec72d65910bb4c10e11b6009d57adc1097dd0660a0426c018e34975c70",
+      "category": "身体结构 C",
+      "observation": "肩胛与背部体块关系；不迁移性别化比例/姿势。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "anatomy-hands.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "身体素材/身体2.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/身体素材/身体2.jpg",
+      "size": [
+        1200,
+        1600
+      ],
+      "sha256": "0d123ee408720a4fcb2631a0e660e03300c15b5d7edead2e1f728189a06d39cc",
+      "category": "身体结构 C",
+      "observation": "上举手臂时肩背/腋下衔接；只用于结构核对。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "anatomy-hands.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "身体素材/身体3.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/身体素材/身体3.jpg",
+      "size": [
+        563,
+        398
+      ],
+      "sha256": "8c4a46dfbd687fc30049ddc52928a80029910b85533a906cb1329875b94be87d",
+      "category": "身体结构 C",
+      "observation": "躯干骨盆肌群概括；563×398文字不清，低优先。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "anatomy-hands.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "身体素材/身体4.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/身体素材/身体4.jpg",
+      "size": [
+        735,
+        800
+      ],
+      "sha256": "bc82cecf72b63288d9dbee06a8bac87774df02b8b8718e6cbc0a50454092cca2",
+      "category": "身体结构 C",
+      "observation": "躯干旋转与肩盆透视；教学标线不作为最终画面。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "anatomy-hands.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "身体素材/身体5.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/身体素材/身体5.jpg",
+      "size": [
+        1200,
+        1440
+      ],
+      "sha256": "455a8662afef87efd4896302fa52f96820915fac3362967ebc0f9f3c1b1f1261",
+      "category": "皮肤表现/结构 B",
+      "observation": "躯干与手的软调子、灰粉暗部；比手3更弱线更柔，不能把比例迁移。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "anatomy-hands.md",
+        "skin-eyes.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    },
+    {
+      "source_relative": "身体素材/身体6.jpg",
+      "source_path": "E:/AIGC/ref/二次元绘画素材/身体素材/身体6.jpg",
+      "size": [
+        911,
+        1557
+      ],
+      "sha256": "51642886433610da53d192affe81fea2b3ecb89e70afe018b7260b185c8a25e6",
+      "category": "骨盆结构 C",
+      "observation": "髂骨、胯线与体块起伏示意；仅结构辅助。",
+      "visual_review": "contact_sheet",
+      "crops": [],
+      "knowledge_modules": [
+        "anatomy-hands.md"
+      ],
+      "knowledge_basis": "visual_observation_synthesis_not_full_text_transcription"
+    }
+  ],
+  "knowledge_updated": "2026-10-16"
+}

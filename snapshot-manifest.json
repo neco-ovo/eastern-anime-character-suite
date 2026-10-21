@@ -1,0 +1,267 @@
+[
+  {
+    "path": "eastern-anime-render/SKILL.md",
+    "bytes": 9377,
+    "sha256": "db3f319e11fc4f3e373d658b36217a6feaec61efc352da2108a5ddeadfb0dba4"
+  },
+  {
+    "path": "eastern-anime-render/agents/openai.yaml",
+    "bytes": 349,
+    "sha256": "69de457d0baf42df4590caadaaf64a9795e71ea9f21805a81d2471e863bf77c8"
+  },
+  {
+    "path": "eastern-anime-render/references/character-costume-prompt-source.md",
+    "bytes": 5377,
+    "sha256": "91a30cf0154238cd9b678683bbe59fab9573fe7b375fb4622168f4f736a883fd"
+  },
+  {
+    "path": "eastern-anime-render/references/character-costume-prompt-writing.md",
+    "bytes": 3399,
+    "sha256": "eb4380a27b5f8e7546dd77e7b66b5a9b15a5558b3ab0ca535951a3f4cfd6b678"
+  },
+  {
+    "path": "eastern-anime-render/references/lighting-clean-render.md",
+    "bytes": 2346,
+    "sha256": "446aa840e1140f9ca553e6d97376b6e1a3b570408dc170bea03ddca4476c440e"
+  },
+  {
+    "path": "eastern-anime-render/references/local-shading-correction.md",
+    "bytes": 4838,
+    "sha256": "01d13f24b37a550eded9a81ae87cd080a2689160c2f908b97cc3f463166620bc"
+  },
+  {
+    "path": "eastern-anime-render/references/material-crops.json",
+    "bytes": 1060,
+    "sha256": "271d38b42027e0253b5d15332e4481a71cd07168d15f6ee525e87299a24a4fc5"
+  },
+  {
+    "path": "eastern-anime-render/references/materials.md",
+    "bytes": 3591,
+    "sha256": "c64962c38c90330362403e1a95fe70279a2326f03423d883ff69d63b0daacae1"
+  },
+  {
+    "path": "eastern-anime-render/references/oip-integration.md",
+    "bytes": 3504,
+    "sha256": "e50753e7cd85a4c14532cb4b2ca5425e3d324e280d445711faf320bfae3ca34c"
+  },
+  {
+    "path": "eastern-anime-render/references/reference-map.md",
+    "bytes": 3577,
+    "sha256": "c97e02841a11302fe292690ed221a74a72bc19c0b08ef6506f04dad4da71b1d7"
+  },
+  {
+    "path": "eastern-anime-render/references/style-evidence.md",
+    "bytes": 2798,
+    "sha256": "d1e10a359efed4fd41a95fd3ab805300ac27d820d30cd23ab4e185b67b071056"
+  },
+  {
+    "path": "eastern-anime-render/references/style-extraction-workflow.md",
+    "bytes": 4468,
+    "sha256": "5b7709d07572437494c4eccaedcaf9d004ecb44e2a0b92311ebbd969c8c059c3"
+  },
+  {
+    "path": "eastern-anime-render/references/style-guide.md",
+    "bytes": 5166,
+    "sha256": "971f09e56a600d108daf64adc410dd749817109d1531cdc2b252e14134ab3015"
+  },
+  {
+    "path": "eastern-anime-render/references/validation.md",
+    "bytes": 11367,
+    "sha256": "c189c682c69a394cec05987a7ca0a07a0150fb3c131c3d685be7051a5e378455"
+  },
+  {
+    "path": "eastern-anime-render/references/images/0.jpg",
+    "bytes": 210224,
+    "sha256": "26b7094e42b034302e4f9c64d6e5f54765eccfd302b7c3770bb6b11e3a4208c2"
+  },
+  {
+    "path": "eastern-anime-render/references/images/111.jpg",
+    "bytes": 136644,
+    "sha256": "d5c3a2f422b7baccc15bff96be1349e896066f5eabcde41de570ddd9a4e85094"
+  },
+  {
+    "path": "eastern-anime-render/references/images/333.jpg",
+    "bytes": 159995,
+    "sha256": "185a23a3620c26682e7231fe59a9ab5d46717a0230ab4ce5773ef6e05ef8d821"
+  },
+  {
+    "path": "eastern-anime-render/references/images/5..jpg",
+    "bytes": 149428,
+    "sha256": "d5120515892ee8578b3f25131eadd015922127cc05ba2df4fabb57381441e35a"
+  },
+  {
+    "path": "eastern-anime-render/references/images/6..jpg",
+    "bytes": 388591,
+    "sha256": "35a6cd07aa45dd63cad30cb266c78f4cfb2760b190633ec887a3c6dccb1194b2"
+  },
+  {
+    "path": "eastern-anime-render/references/images/hair-cloth-study.png",
+    "bytes": 1893778,
+    "sha256": "c189580f96fb8ae1eeda2f1d7d700bc82db6ad97e8786257e908769cfdced80d"
+  },
+  {
+    "path": "eastern-anime-render/references/images/hair-volume-original.png",
+    "bytes": 353158,
+    "sha256": "96c02c5ba48be6e5f4a0a6a91f5c95dec2e1791afef1a7634807cb2844fc654b"
+  },
+  {
+    "path": "eastern-anime-render/references/images/jewelry-response-original.png",
+    "bytes": 176769,
+    "sha256": "0e6579b4ea2b79bc84d25aa80603247b62c161d43356155e5c8a7e1a4981db11"
+  },
+  {
+    "path": "eastern-anime-render/references/images/leaf-plane-original.png",
+    "bytes": 41518,
+    "sha256": "2234e33f3e104f5b2bc87b0d6abd67225021841df78f412381b2b7770be38ff8"
+  },
+  {
+    "path": "eastern-anime-render/references/images/oip-ink-bamboo-original.png",
+    "bytes": 200704,
+    "sha256": "77a9b3ba6845c2417f7929fafc37eb486eff18cf90c8104b1ec1178d68ed2d06"
+  },
+  {
+    "path": "eastern-anime-render/references/images/sleeve-bent-arm-original.png",
+    "bytes": 233744,
+    "sha256": "316ec63d4e1712953cb1581f44990f67d83bd55d1ab512fea25da181a379c469"
+  },
+  {
+    "path": "eastern-anime-render/references/images/sleeve-drape-original.png",
+    "bytes": 355136,
+    "sha256": "f6ad8bf650bfc6d79527ae3829a00d7a5f117d0959482a7bf10eb0fb0fd68bb5"
+  },
+  {
+    "path": "eastern-anime-render/references/images/water-context-original.png",
+    "bytes": 50680,
+    "sha256": "bfe33114835ae7329458f31af965439926748010b7c6f4a55cc66675be5f4df4"
+  },
+  {
+    "path": "eastern-anime-render/references/library/accessories.md",
+    "bytes": 3281,
+    "sha256": "76056088f23a2bc72161be90c5ec608415220c6cfe57b8e95d38f1315ea8da78"
+  },
+  {
+    "path": "eastern-anime-render/references/library/anatomy-hands.md",
+    "bytes": 2055,
+    "sha256": "458ba076e7d595a14162dbe8b55956fbf2224f4aee6882c7cbea37e062f48c8a"
+  },
+  {
+    "path": "eastern-anime-render/references/library/cloth.md",
+    "bytes": 5917,
+    "sha256": "23c504980b1024b1ae2a6d988f6fc7daa48c99127daec3340cec7ba4d5b33ae9"
+  },
+  {
+    "path": "eastern-anime-render/references/library/costume-design.md",
+    "bytes": 3782,
+    "sha256": "39860b7d9fab1c12caf3f1157a65dee692504b8eaf6affb87a3d3e035b49519e"
+  },
+  {
+    "path": "eastern-anime-render/references/library/folds.md",
+    "bytes": 2284,
+    "sha256": "ae27f44a0ba7c11bd7a5dab9fd0483e436eb2ef393f3b174ff0b36568562f09f"
+  },
+  {
+    "path": "eastern-anime-render/references/library/hair.md",
+    "bytes": 4105,
+    "sha256": "2ed4b5d0fa7ca9a18e3644075f354962ea4a66e920e95a9454dcb731033f56f4"
+  },
+  {
+    "path": "eastern-anime-render/references/library/index.md",
+    "bytes": 6464,
+    "sha256": "c463a5a50a366939266b1a26d35f0d04584ba2e7dd7330d01eaddf186aad30b8"
+  },
+  {
+    "path": "eastern-anime-render/references/library/lighting.md",
+    "bytes": 2162,
+    "sha256": "361819be21bc13e6f21b1f48981be571ed660460c5d612fc4db75da7222b46b8"
+  },
+  {
+    "path": "eastern-anime-render/references/library/manifest.json",
+    "bytes": 38281,
+    "sha256": "9ba0213cd68e83d0e0bd78bc6c43551a9b41c98a045a50cbaeecad030d2ab668"
+  },
+  {
+    "path": "eastern-anime-render/references/library/skin-eyes.md",
+    "bytes": 3253,
+    "sha256": "925f467dcd84f964f1b690d20349ca3983b5e1383d25b561a6b81230ba6ec458"
+  },
+  {
+    "path": "eastern-anime-render/references/library/sources.md",
+    "bytes": 3271,
+    "sha256": "0caf4112b863f2077a90dfe49c7584af15f47e5fbdae28f7f1de82ea329d8f4b"
+  },
+  {
+    "path": "eastern-anime-render/references/library/structure-design.md",
+    "bytes": 630,
+    "sha256": "c4cc209d03bdb3447f4900a1d93db03cc1dba94b31715aa93d7e05ea65148bc8"
+  },
+  {
+    "path": "eastern-anime-render/references/library/supplemental-surfaces.md",
+    "bytes": 3318,
+    "sha256": "d0c4eee2b1f379287822693956ce75b36ddec6071899ee76fa3eb4002978cdde"
+  },
+  {
+    "path": "eastern-anime-render/references/library/images/cloth-light-planes.png",
+    "bytes": 112335,
+    "sha256": "d619ae71e42857fc8c2a23d00c5bfa015a47882ffa71e9ab8d3fd318c0838acb"
+  },
+  {
+    "path": "eastern-anime-render/references/library/images/cloth-matte-bend.png",
+    "bytes": 219791,
+    "sha256": "1ed4afb7b1d9b97e642f917195f661353cd4d12afaa53b8b5f77f9a386370230"
+  },
+  {
+    "path": "eastern-anime-render/references/library/images/cloth-quiet-body.png",
+    "bytes": 55268,
+    "sha256": "a318523221fcaf1642c16a3fd2472c49c64f507e09448f1081269091647ec176"
+  },
+  {
+    "path": "eastern-anime-render/references/library/images/cloth-rounded-planes.png",
+    "bytes": 157336,
+    "sha256": "700e2318dae2292a1d3bad6028b5755fe07b12a87c69282f582f81cbcae6d256"
+  },
+  {
+    "path": "eastern-anime-render/references/library/images/cloth-soft-sheen.png",
+    "bytes": 202703,
+    "sha256": "6127d0c01a1e9c920a0a95df9a62cff8895e170304bbc26dd99b8ac2d72998c0"
+  },
+  {
+    "path": "eastern-anime-render/references/library/images/hair-line-plane.png",
+    "bytes": 389624,
+    "sha256": "59f49eed7694378998a661a5bc2d31eb6d01bca8159be7971a32633fd72369fb"
+  },
+  {
+    "path": "eastern-anime-render/references/library/images/hair-soft-volume.png",
+    "bytes": 475131,
+    "sha256": "5cc98d9e8469560f7199e0725b4a9505cd6a39ef5461fdc76aff925f41d390c8"
+  },
+  {
+    "path": "eastern-anime-render/references/library/images/leather-reflection.png",
+    "bytes": 146813,
+    "sha256": "4fff0b1aa4527bc490a83d62ff01a6e59022278580fad7ce96e0399f147852f8"
+  },
+  {
+    "path": "eastern-anime-render/references/library/images/skin-color-planes.png",
+    "bytes": 158340,
+    "sha256": "2508b8fc1be6778280aacae3a7f5e5d3060fb460e6473586156ca65f459c8fb7"
+  },
+  {
+    "path": "anime-pose-design/SKILL.md",
+    "bytes": 4023,
+    "sha256": "4b50bfdadd89a05797b98ac23a333815a08284e6821f983c41d16fcc1a246a0a"
+  },
+  {
+    "path": "anime-pose-design/references/pose-principles.md",
+    "bytes": 7983,
+    "sha256": "a9a5527b11b5976e253c07f9d90901658b5ad156548affc7a441f4ba5ff69e4a"
+  },
+  {
+    "path": "anime-face-expression/SKILL.md",
+    "bytes": 4218,
+    "sha256": "118ee4407ed62f344b7e8575d09f12de2976cb1cc83c2a2712adaca46fb810e7"
+  },
+  {
+    "path": "anime-face-expression/references/facial-features.md",
+    "bytes": 7240,
+    "sha256": "3671f3fff41c169c5e1b207a68537f65ebf0995711b08836000cd8e83c1c0d8c"
+  }
+]

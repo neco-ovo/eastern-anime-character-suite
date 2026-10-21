@@ -1,0 +1,4 @@
+interface:
+  display_name: "东方幻想·动漫绘画渲染"
+  short_description: "以参考6的叠色、流动线面与绘画肌理为核心，结合材质知识与图片在 Codex 中生图"
+  default_prompt: "使用 $eastern-anime-render，按我的主体要求创作，以参考6为默认画法，按需结合素材文字与图片创作。"

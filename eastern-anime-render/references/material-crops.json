@@ -1,0 +1,41 @@
+[
+  {
+    "file": "images/leaf-plane-original.png",
+    "source": "images/5..jpg",
+    "box_xyxy": [
+      25,
+      620,
+      195,
+      755
+    ],
+    "scope": "荷叶：曲面、叶缘和局部明暗；非所有叶种通用形状",
+    "method": "Original pixels; no resize, recolor, inpainting",
+    "pixel_check": true
+  },
+  {
+    "file": "images/water-context-original.png",
+    "source": "images/5..jpg",
+    "box_xyxy": [
+      0,
+      870,
+      150,
+      1108
+    ],
+    "scope": "荷塘水域环境：水色和留白/反射概括；混有叶片，非纯水纹理",
+    "method": "Original pixels; no resize, recolor, inpainting",
+    "pixel_check": true
+  },
+  {
+    "file": "images/jewelry-response-original.png",
+    "source": "images/0.jpg",
+    "box_xyxy": [
+      625,
+      265,
+      980,
+      555
+    ],
+    "scope": "珠饰与金属局部：不同材质高光；混有衣料，勿转移饰品设计",
+    "method": "Original pixels; no resize, recolor, inpainting",
+    "pixel_check": true
+  }
+]
